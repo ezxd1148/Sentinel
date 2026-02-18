@@ -1,50 +1,24 @@
-# Remix IDE Blank Template
+# Sentinel
 
-Welcome to your new **Remix IDE Blank Workspace**!
+High-performance, AI-driven security agent that anchors forensic logs to the Polkadot blockchain
 
-This workspace has been generated using the "Blank Template" option in Remix IDE. It starts with only minimal configuration files, giving you full control to build your project from scratch.
+> This project is built for Polkadot Solidity Hackathon 2026
 
----
+Sentinel allows for enhanced security while still maintaining efficient gas usage using newest Solidity and Polkadot integrated with Nim compiled to C for heavy mathing.
 
-## What's Included?
+Current security tools have a fatal flaw. If a hacker gains root access, they can delete logs to cover their tracks.
+**Sentinel** solves this by implementing a Zero-Trust Forensic Architecture
 
-- **`remix.config.json`**: Default Remix IDE workspace configuration.
-- **`.prettierrc.json`**: Basic Prettier formatting rules for code consistency.
-
-No contract files, folders, or sample code are included.
+It uses a high-speed Nim engine to capture and encrypt threat data in real-time, stores the encrypted evidence on decentrelized storage (IPFS) and anchors a "fingerprint" (Hash) to solidity smart contract. This creates an immutable and verifiable chain even admin cannot alter
 
 ---
 
-## Getting Started
-
-1. **Create Files & Folders**
-
-   - Add new Solidity files, scripts, or folders as needed for your project.
-   - You can organize your workspace structure in any way you like.
-
-2. **Setup Project Settings** (Optional)
-
-   - Modify `remix.config.json` or add additional configuration files as your project grows.
-
-3. **Write & Compile Smart Contracts**
-
-   - Use the **Solidity Compiler** and **Deploy & Run Transactions** plugins (available in Remix IDE's left sidebar) to develop and test your contracts.
-
-4. **(Optional) Initialize Git**
-
-   - If you checked "Initialize as a Git repository" during workspace creation, you can start committing your code immediately.
+## How It Works
 
 ---
 
-## Useful Resources
+## How to use
 
-- [Remix IDE Documentation](https://remix-ide.readthedocs.io/)
-- [Solidity Language Documentation](https://docs.soliditylang.org/)
-- [Remix IDE Community Forum](https://forum.remix.ethereum.org/)
+-- 
 
----
-
-Happy coding! 🚀 
-
-_Remix IDE Team_
-
+## Why to use
